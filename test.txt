@@ -1,2 +1,3 @@
 Hello World!
 I have started my learning just because I am curious what I can do with IT techs.
+By the way, I am trying to launch some kind of product which implements python and javascript.
